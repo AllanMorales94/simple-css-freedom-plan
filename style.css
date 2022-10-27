@@ -1,0 +1,69 @@
+
+h1,
+p,
+h2 {
+  text-align: center;
+}
+h1,h2{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h1{
+  font-size:40px;
+  margin-top:0;
+  margin-bottom:15px;
+}
+h2{
+  font-size:30px;
+}
+body {
+  background-color: #85bb65;
+  background-image:url(Images/money-.jpg);
+  font-family:Georgia, 'Times New Roman', Times, serif
+  padding: 20px;
+}
+.menu {
+  width: 80%;
+  background-color: #90a97d;
+  margin-left: auto;
+  margin-right: auto;
+ padding: 20px;
+ max-width:500px;
+}
+hr {
+  height: 2px;
+  background-color:#e7c02b;
+  border-color:#e7c02b;
+}
+.bottom-line{
+  margin-top:25px;
+}
+.product {
+  text-align: left;
+  width:49%;
+}
+.prospect {
+  text-align: right;
+  width:49%;
+}
+.item p{
+  display: inline-block;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-size:18px;
+}
+.established{
+  font-style: italic;
+}
+.mid{
+  height: 2px;
+  background-color:whitesmoke;
+  border-color:whitesmoke;
+}
+.light{
+  height: 30px;
+  width: 30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -25px;
+}
